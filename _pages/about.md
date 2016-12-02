@@ -15,6 +15,6 @@ I’m Peter, 19, and out to tackle challenges that leave an impact on the commun
 
 I’m currently a first year CS student at Technical University of Munich (TUM). I've worked on smart, unsupervised energy-monitoring algorithms at the Institute of Networked and Embedded Systems at the University of Klagenfurt, inter-process communication techniques at the Chair for Database Systems at TUM, chatbots at Google and currently chat backends at Bloomberg.
 
-I also love and live open-source, so you’ll find my second home to be [Github](github.com/goldsborough). I maintain two blogs, this one here and also an [old one](http://thecodeinn.blogspot.com), where I write technology-related articles to give back to the community. Also, I have given tech talks at the Python Meetup in Munich, at PyConUK 2016 in Cardiff and at the Cambridge Academy, on the topic of *Deep Learning with TensorFlow*.
+I also love and live open-source, so you’ll find my second home to be [Github](https://github.com/goldsborough). I maintain two blogs, this one here and also an [old one](http://thecodeinn.blogspot.com), where I write technology-related articles to give back to the community. Also, I have given tech talks at the Python Meetup in Munich, at PyConUK 2016 in Cardiff and at the Cambridge Academy, on the topic of *Deep Learning with TensorFlow*.
 
 In the future, I see myself mostly doing machine learning and fixing the world.
