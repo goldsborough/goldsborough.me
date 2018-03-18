@@ -151,7 +151,7 @@ fn call(&self, request: Request) -> Self::Future {
     }
 ```
 
-We distinguish between different requests by matching on the method and path fo
+We distinguish between different requests by matching on the method and path of
 the request. The method will be `Post` or `Get` in our case. The only valid path
 for our service is the root path `"/"`. If the method is `&Post` and the path
 correct, we call the functions I mentioned earlier. Notice how beautifully we
