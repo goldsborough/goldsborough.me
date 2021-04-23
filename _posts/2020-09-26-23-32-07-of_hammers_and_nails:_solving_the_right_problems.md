@@ -39,7 +39,6 @@ There are plenty of problems in each of these areas:
 * Equality and accessibility of economic opportunities regardless of origin, race and gender (opportunity)
 * Freedom of thought, expression and enterprise (freedom)
 * War, terrorism and crime (freedom, opportunity)
-* Collectivist ideology (freedom, opportunity)
 * Drug addiction (opportunity)
 * Space exploration (opportunity)
 
